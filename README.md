@@ -10,4 +10,4 @@ Básado en su gran mayoría en el trabajo y código de:
 El crédito tiene que ir a él. Muchas gracias!
 
 # Disclaimer
-La comunidad Python Piura mo se hace responsable por cualquier resultado por favor - verificar antes de usar.
+La comunidad Python Piura no se hace responsable por cualquier resultado por favor - verificar antes de usar.
